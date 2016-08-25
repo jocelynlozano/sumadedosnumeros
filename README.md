@@ -7,19 +7,19 @@ Solución de Ejercicios
 ######Ejemplo 1:  
 
 _Input:_  
-_num1=4_
+_num1=4_  
 _num2=5_
 
-_Output_
+_Output_  
 _9_
 
 ######Ejemplo 2:
 
 _Input:_  
-_num1=100_
+_num1=100_  
 _num2=120_
 
-_Output_
+_Output_  
 _220_
 
 ___Completando la función___
